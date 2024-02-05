@@ -1,0 +1,9 @@
+<xml width="500" height="800">
+        <field id="name" fontsize="20"/>
+        <br/>
+        <br/>
+        <field id="lastname" fontsize="20"/>
+        <br/>
+        <br/>
+        <field font="image" id="image" width="200" height="200"/>
+</xml>
