@@ -1,5 +1,5 @@
 // Imports existentes
-import { getRandomUser, getImageBase64, User } from "./integrations/user_generator/integration";
+import { getImageBase64 } from "./integrations/user_generator/integration";
 import { DotenvIntegrationHandler as Dotenv } from "./integrations/dotenv/integration";
 import { GladtolinkIntegrationHandler as Gladtolink } from "./integrations/gladtolink/integration";
 import fs from 'fs';
